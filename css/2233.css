@@ -142,16 +142,6 @@ div#archive {
 }
 
 
-.iconfont {
-  font-family: "iconfont" !important;
-  font-size: 3em;
-  /* 可以定义图标大小 */
-  font-style: normal;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-
 svg.icon {
   width: 1.28em;
   height: 1.28em;
