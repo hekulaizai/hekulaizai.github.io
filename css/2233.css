@@ -157,7 +157,7 @@ svg.icon {
   height: 1.28em;
   vertical-align: -0.15em;
   fill: currentColor;
-  overflow: hidden;
+  overflow: visible;
 }
 
 @import "//at.alicdn.com/t/c/font_3861722_95d9j8nqpg.css";
