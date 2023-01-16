@@ -2,7 +2,7 @@
 
 button#go-up #percent {
     display: none;
-    font-weight: bold;
+    font-weight: none;
     font-size: 15px !important;
 }
 
@@ -18,6 +18,6 @@ button#go-up:hover i {
     display: block !important;
 }
 
-/* button#go-up:hover #percent {
+button#go-up:hover #percent {
     display: none !important;
-} */
+}
