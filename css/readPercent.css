@@ -18,6 +18,6 @@ button#go-up:hover i {
     display: block !important;
 }
 
-button#go-up:hover #percent {
-    display: block !important;
+  button#go-up:hover #percent {
+    display: none !important;
 }
