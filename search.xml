@@ -745,6 +745,17 @@
     
     
     <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/css/2233.css"/>
       <url>/css/2233.css</url>
@@ -761,17 +772,6 @@
       <url>/about/index.html</url>
       
         <content type="html"><![CDATA[<p>博客框架：Hexo 6.3.0<br>主题：Butterfly 4.3.1<br>源码仓库：Github<br>托管与部署：Vercel + Github Pages<br>图床：vika<br>图片压缩：imagesTool<br>图标：alifont<br>评论：Twikoo + Vercel + MongoDB<br>版权声明：详见CC BY-NC-SA 4.0<br>站长：何苦来哉</p>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
